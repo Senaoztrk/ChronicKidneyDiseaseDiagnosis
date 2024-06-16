@@ -9,4 +9,8 @@ Two methods were used to handle missing data. In the first average method used, 
 
 Machine learning models were used separately for these two methods. These models were trained on the dataset for each missing data filling method. Machine learning models used; SVM (Support Vector Machines), Random Forest, K-Nearest Neighbor, Decision Tree, Logistic Regression and Artificial Neural Network.
 
+When compared according to performance metrics, it is seen that the most effective result occurs when the missing data is filled with the most frequently repeated value.
+
+When machine learning models are compared accordingly, it turns out that the models that give the most effective results are SVM, Random Forest, Logistic Regression and Artificial Neural Networks.
+
 These operations were carried out in the Python environment with the help of ready-made libraries.
